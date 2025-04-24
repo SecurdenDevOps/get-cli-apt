@@ -1,36 +1,44 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Date: Thu, 24 Apr 2025 14:13:05 +0000
+Origin: get-cli-apt
+Label: get-cli-apt
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: APT repository for Securden CLI
+Date: Thu, 24 Apr 2025 15:50:24 +0000
+Date: Thu, 24 Apr 2025 15:50:30 +0000
 MD5Sum:
- 74d93c8112e2624ae4d0815d82350910               38 Release
+ 3f1961b92a58648d6c678d4b18ee940b              229 Release
  348c102a0152488e90ec1599dab42bcd              548 main/binary-amd64/Packages
- 42e60f831415941f21a91299794428d7              403 main/binary-amd64/Packages.gz
+ 36b864dcbe7ad6a15fe12d66fbd17fc9              403 main/binary-amd64/Packages.gz
 SHA1:
- 5e1615ddb3c42d7487c62cc2967d2e001f5376a0               38 Release
+ 9f590a31fe377785b44319ef59b7446693016c39              229 Release
  83c6e102f1d77accb624d4da3b601e747a111fc5              548 main/binary-amd64/Packages
- 6b5fc5392ec6113ac4a641e46348793fea8cdcd1              403 main/binary-amd64/Packages.gz
+ 1248fc0b38e1e750da5d58742785e0146c850c71              403 main/binary-amd64/Packages.gz
 SHA256:
- 8c9d8f714d356a52129d8072b630a08bf99f974c37459a415efe4be425e44ede               38 Release
+ c7e5090bfc23099997eab4eb32492e5ea25d8e7c49b8bfbc870f95e00e88a4ba              229 Release
  cdc59443746bc5650f763a2e8217eccfcee6c26ff92f6885319af91aa84b7c50              548 main/binary-amd64/Packages
- 44d73b6a894c9e5bfa32bf69abf6912c1b54cd027c18e7534ec4ff44f6788299              403 main/binary-amd64/Packages.gz
+ 17e9215d6ae1a2743dc58ebc5ee6e1230fca29e6a31372c351244b969293f1d3              403 main/binary-amd64/Packages.gz
 SHA512:
- ebad8ed560a81c217b9833fbcd50634b0e9af84ea7941674aa9d0acc2a13347c2684d84516454781fa8ebc7def422354279500b360f9ddc48a66d0526c812820               38 Release
+ ae98b29e5e88de5272f57136cc3753a4ee19155dd014d5c45dd235d633317e13a6776a996f250f43f961a30fff5afc729c13908c3d59c0f40904bc3afe6f5b9e              229 Release
  8b732062ddde6497fc0fb3fbf12ad5a2ec4f0b1e1bc15ad38208329e57d47e338929caefa4aca0d3ba45d7b66ba934771fd0d2eb7bf7de2ca6ca300d2bb08884              548 main/binary-amd64/Packages
- 06cf5b7970f788364d6b3a608255b2890261e1ac44a9510523a5e2baadff912bcfff9ad06ec7962996583ef963ca0e5be52c650d50e59241b2704d2605d370cb              403 main/binary-amd64/Packages.gz
+ 0af999c418ab90275bd1362a6186ab82c93042cc222c95baf5ec89b322e66bf31f5084c6738869e5d43fad0c56a7e0e17fdc1fd80ac1ff3e57360b3e2a8d1c71              403 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEExNxjyeglJlmyhgOq+0JBMWQ6m6EFAmgKSJoACgkQ+0JBMWQ6
-m6H+uQ//amd42MJI/qswbClbaZLY8RytFbGBKFWYvMowg33rSqS7Mlv1Ej29Euuu
-SUi71FRxpb0Uy5PqZ8UVRtXqsMnqTAC8S79QMfdwtXVJbcDnLugfo9kjkoHSjSmy
-cw+88HNRtuOYNwBrVuBM1Bn1Ae3qs0qHx3BXpaXO0ujLK49w99tR6fcOzKpE94lY
-vIHetQ77Bid+leDoe6N0ZYCPAp7jaYqaXm50Zrnu+9P7Qw22h3tSULOoglTr2FyS
-tyn+nK2wehuWuMrim/JTRaTUqzYtnMcwRI62/r53lcDliSe4bBx4yRPL/439Igde
-zFUSsaWf1Q+pIyvwjptI2QkQNkePZydQgdHlCML45tm74gIKyXqBPHKG1p+P9LG5
-RFFTras1eXTrbuBOwtmo5CgHKnddtK80GlK79IGrJI4Sm1ZSK4ou0zRjN5PshcGZ
-g1S5gPgXqAAu0Qsx4fn5+o8wcnzYJoJCRwN8Ig6XbVUO/wwc9NMeJdqsPIt9XoKL
-2tOVuelSNZ6t62XPDOOGkm+xoD6M4kuIZ6eu7Lnuijo7b1RYRWjIcJUV3C1QeCNN
-w7G5L7c+i4BfnxN6hfsEhhthb41gfB//AiCG5VSn4Irzfv/RnvnnRiqnJkawpHvD
-AsfCSIiDakVbNBaYAKnYouFQunvySbayA0D6hfmGL803kHuNsHQ=
-=8AD1
+iQIzBAEBCgAdFiEExNxjyeglJlmyhgOq+0JBMWQ6m6EFAmgKXdMACgkQ+0JBMWQ6
+m6HxSQ//bnpAVGHnf8G0iekvVAaQQdV/ql84sR4ov57iI8uIF4mU33Evum26+wny
+pYknEqALrrbXHBmQCiWJpZVd14MF5cF60dZmdPXUtcIGXpcI0N934zioyqqeXoM8
+tqD4hhdjglFYovLCFLjcD/d4R+1DGCpNXPPKYDLaMGF1BhRS1RMqWITm95x9DyYK
+h79z9596aorSh6NdDyjifOJF973OHCOpIHhOBLGin0EH1QZ1DoB3L+NNoxhbYTQj
+RMa+td3cFfjVVCRzkKc9IRzClYbXzfJplm0aW1E/653S7cNOwj6znx7ZE8JPQgh1
+Kjgw9UVPRYILHlNe66wt7f4LTRPTnoSgO8s05iwnFyUJQLQYKDdkZm/ecmAKrIbf
+5MhWPv9YhFuzMkfsRUaihmGNHfrDNdpURmqxFpaL5DMC3oW6GZ7n4+h8WWujmOvA
+zePcVnMN/wwibUhlb4Axx1VchleeqUbwu19yy7bI9NmMBEj6d2XxZCdo6Au22hQo
+KAxPscoA+t8m+ETghnUec0XtaJpk6bGOMIlR3DIKubGezQuTsDlKXQBqRP5+kQoh
+ozGcZXq0QU4xjlWsjU1zvq3phiMxhei+YGfiUznzwsgGnW85m88gffPWaEsuImPA
+E0NsjV0irr4JfnYLAnelXAjhcntXlTg52fAxwtAevyR3U1q3Pck=
+=YtPt
 -----END PGP SIGNATURE-----
