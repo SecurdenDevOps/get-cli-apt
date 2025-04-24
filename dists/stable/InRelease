@@ -1,35 +1,34 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Origin: YourRepo
-Label: YourRepo
+Origin: get-cli-apt
+Label: get-cli-apt
 Suite: stable
 Codename: stable
 Architectures: amd64
 Components: main
 Description: APT repository for official Securden CLI
-Date: Thu, 24 Apr 2025 11:38:41 +0000
+Date: Thu, 24 Apr 2025 12:11:58 +0000
 
 MD5Sum:
- 348c102a0152488e90ec1599dab42bcd 548 main/binary-amd64/Packages
- 2222c8ca008a338eb6022db335069a10 403 main/binary-amd64/Packages.gz
-
+ 348c102a0152488e90ec1599dab42bcd 548 main/binary-amd64/Package
+ 49d5e74f966b93a9c8564fecc06c27b2 403 main/binary-amd64/Packages.gz
 SHA256:
  cdc59443746bc5650f763a2e8217eccfcee6c26ff92f6885319af91aa84b7c50 548 main/binary-amd64/Packages
- ec903b36cb3c21952bc3f648e4477f5a7b9ee77652a275a8ab95a69836647a12 403 main/binary-amd64/Packages.gz
+ 47c4f41bbf31cfa7ab7ec99189a36a062c5320be706e1649f33ed4fa8efa9655 403 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEExNxjyeglJlmyhgOq+0JBMWQ6m6EFAmgKJIkACgkQ+0JBMWQ6
-m6EHNQ/+LlSXIllEA1MX7eRYs+95YeXwKRemTSML4PxWZWP9BzIZ7kpFgbrHyy3b
-5mCItc1cvdt6F94UBX2SPkyHPZpaN3UzEgI53cIObwWSJc/QVsDWh0QUyRumk4Ce
-aeRPqwA182Viie+1LgjcNe+jBHjxA4W0QFAtvR9OyIPY19Aucu4FjEPPWQVaUUdO
-24NVNIfxX0nE2rvek1GC0Ua6CmZjh0iXAeY19II0arrRCSYZJIuxKa7Kx83t1a9a
-3bBk5wn1eR/BvAw5KI2FFibDo+ETCRCuHydzVmapXBUbgOuMhZeNl7ECPdtjD7Hc
-UDtzW+tb1ZDqVCcxfULJXKuDSMv/Nw0Yke43R/zAXav5Es3fxT3cZ3Slhq5N3SoS
-LZmFOZPbmjF5OhUgAJpHcclqkOOhoUMjtbS0HaWP6SHW0v2+81DH+IUoU61uKpaT
-k01UzprkRigjI1GZmv+9khq9P4zGmBMb6m53hqd5M94XHg1U4bfMpCvr3o2SZoUc
-+ChCtzKD6loSkDP0scdixLg2VAehzlOypcIoFv0KDI1t9JqDMH+nB22yh++QGP2k
-FIu1pxjvCfPX7SE5aOj0JMqpns4Yg4wmM8+VCz67ff/UhKyxukm3842x05e+WagJ
-fH+/8JQWa9G8zleRt9mtUu+T4G6w5/XA0qNRtfG68coChAujxok=
-=coN6
+iQIzBAEBCgAdFiEExNxjyeglJlmyhgOq+0JBMWQ6m6EFAmgKKp0ACgkQ+0JBMWQ6
+m6G2wRAAmMiSFR0XiOq/lpkx89aWQwd9ikIrBtdjplEEsBpeotz55I6X7cjL0fB4
+NAn3+gg8FoE3x7FPCYP2Hh1CcFdN4ox/93hvpA9fiLfDrAwsFIZNwERMK+84bqJi
+hauEwMgYY6F1vZ4evNyDVL2QeoZ/dETIcLtPePZB/1lf2qDUtah7fl+RqAJBi7IT
+eufcjlRJhFuYRnMlT2qwDebFtH96pLJtkOu62DAnYodbHbJzlnTxGmrxZq3uW7He
+48tQWiS0b7T4Mv3Iofw7AZaLymfcyy2VsXuXZj1O1WqioFkevj8Pgg+zd6xlRhyO
+/FcAF7iyN806SlLH3L0d+tH3D3GXIDkdlQF7pKtb7EkR+nkXMzVC2rFksFJeHEHW
+H1sVRtV0Z6xn6jg/7KuV9FOiB0i6n6DBOFJKsxiqTcS4qNmFVINjfbydEzLe1dxX
+kXdquoDqIBQScFhqNJYyyvIFVO0PBLtFp+7OvERJwHEpQhbG0KYqKiv7Uh041opm
+biLYc8eBSOLrFCvLOUC8gpYt1ClU4xOZdErbGGbk4chHLkTAhBl1bI0BlgogYAXY
+hUNa1ogJXEcZZ3zfS+UX9ePEO2riC8inLXlEWRFcM1fRasqtYpKqZG8XRIpFP9Df
+8zov1BROC77ZkLQ0xE/uzEtdxBmJThqdrCuJlOv5KLe1FEg0Rfc=
+=uhKf
 -----END PGP SIGNATURE-----
