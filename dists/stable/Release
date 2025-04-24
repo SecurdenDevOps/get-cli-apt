@@ -1,0 +1,16 @@
+Origin: YourRepo
+Label: YourRepo
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: APT repository for official Securden CLI
+Date: Thu, 24 Apr 2025 11:38:41 +0000
+
+MD5Sum:
+ 348c102a0152488e90ec1599dab42bcd 548 main/binary-amd64/Packages
+ 2222c8ca008a338eb6022db335069a10 403 main/binary-amd64/Packages.gz
+
+SHA256:
+ cdc59443746bc5650f763a2e8217eccfcee6c26ff92f6885319af91aa84b7c50 548 main/binary-amd64/Packages
+ ec903b36cb3c21952bc3f648e4477f5a7b9ee77652a275a8ab95a69836647a12 403 main/binary-amd64/Packages.gz

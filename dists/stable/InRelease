@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: YourRepo
+Label: YourRepo
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: APT repository for official Securden CLI
+Date: Thu, 24 Apr 2025 11:38:41 +0000
+
+MD5Sum:
+ 348c102a0152488e90ec1599dab42bcd 548 main/binary-amd64/Packages
+ 2222c8ca008a338eb6022db335069a10 403 main/binary-amd64/Packages.gz
+
+SHA256:
+ cdc59443746bc5650f763a2e8217eccfcee6c26ff92f6885319af91aa84b7c50 548 main/binary-amd64/Packages
+ ec903b36cb3c21952bc3f648e4477f5a7b9ee77652a275a8ab95a69836647a12 403 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEExNxjyeglJlmyhgOq+0JBMWQ6m6EFAmgKJIkACgkQ+0JBMWQ6
+m6EHNQ/+LlSXIllEA1MX7eRYs+95YeXwKRemTSML4PxWZWP9BzIZ7kpFgbrHyy3b
+5mCItc1cvdt6F94UBX2SPkyHPZpaN3UzEgI53cIObwWSJc/QVsDWh0QUyRumk4Ce
+aeRPqwA182Viie+1LgjcNe+jBHjxA4W0QFAtvR9OyIPY19Aucu4FjEPPWQVaUUdO
+24NVNIfxX0nE2rvek1GC0Ua6CmZjh0iXAeY19II0arrRCSYZJIuxKa7Kx83t1a9a
+3bBk5wn1eR/BvAw5KI2FFibDo+ETCRCuHydzVmapXBUbgOuMhZeNl7ECPdtjD7Hc
+UDtzW+tb1ZDqVCcxfULJXKuDSMv/Nw0Yke43R/zAXav5Es3fxT3cZ3Slhq5N3SoS
+LZmFOZPbmjF5OhUgAJpHcclqkOOhoUMjtbS0HaWP6SHW0v2+81DH+IUoU61uKpaT
+k01UzprkRigjI1GZmv+9khq9P4zGmBMb6m53hqd5M94XHg1U4bfMpCvr3o2SZoUc
++ChCtzKD6loSkDP0scdixLg2VAehzlOypcIoFv0KDI1t9JqDMH+nB22yh++QGP2k
+FIu1pxjvCfPX7SE5aOj0JMqpns4Yg4wmM8+VCz67ff/UhKyxukm3842x05e+WagJ
+fH+/8JQWa9G8zleRt9mtUu+T4G6w5/XA0qNRtfG68coChAujxok=
+=coN6
+-----END PGP SIGNATURE-----
