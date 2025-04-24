@@ -1,34 +1,36 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Origin: get-cli-apt
-Label: get-cli-apt
-Suite: stable
-Codename: stable
-Architectures: amd64
-Components: main
-Description: APT repository for official Securden CLI
-Date: Thu, 24 Apr 2025 12:11:58 +0000
-
+Date: Thu, 24 Apr 2025 14:13:05 +0000
 MD5Sum:
- 348c102a0152488e90ec1599dab42bcd 548 main/binary-amd64/Package
- 49d5e74f966b93a9c8564fecc06c27b2 403 main/binary-amd64/Packages.gz
+ 74d93c8112e2624ae4d0815d82350910               38 Release
+ 348c102a0152488e90ec1599dab42bcd              548 main/binary-amd64/Packages
+ 42e60f831415941f21a91299794428d7              403 main/binary-amd64/Packages.gz
+SHA1:
+ 5e1615ddb3c42d7487c62cc2967d2e001f5376a0               38 Release
+ 83c6e102f1d77accb624d4da3b601e747a111fc5              548 main/binary-amd64/Packages
+ 6b5fc5392ec6113ac4a641e46348793fea8cdcd1              403 main/binary-amd64/Packages.gz
 SHA256:
- cdc59443746bc5650f763a2e8217eccfcee6c26ff92f6885319af91aa84b7c50 548 main/binary-amd64/Packages
- 47c4f41bbf31cfa7ab7ec99189a36a062c5320be706e1649f33ed4fa8efa9655 403 main/binary-amd64/Packages.gz
+ 8c9d8f714d356a52129d8072b630a08bf99f974c37459a415efe4be425e44ede               38 Release
+ cdc59443746bc5650f763a2e8217eccfcee6c26ff92f6885319af91aa84b7c50              548 main/binary-amd64/Packages
+ 44d73b6a894c9e5bfa32bf69abf6912c1b54cd027c18e7534ec4ff44f6788299              403 main/binary-amd64/Packages.gz
+SHA512:
+ ebad8ed560a81c217b9833fbcd50634b0e9af84ea7941674aa9d0acc2a13347c2684d84516454781fa8ebc7def422354279500b360f9ddc48a66d0526c812820               38 Release
+ 8b732062ddde6497fc0fb3fbf12ad5a2ec4f0b1e1bc15ad38208329e57d47e338929caefa4aca0d3ba45d7b66ba934771fd0d2eb7bf7de2ca6ca300d2bb08884              548 main/binary-amd64/Packages
+ 06cf5b7970f788364d6b3a608255b2890261e1ac44a9510523a5e2baadff912bcfff9ad06ec7962996583ef963ca0e5be52c650d50e59241b2704d2605d370cb              403 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEExNxjyeglJlmyhgOq+0JBMWQ6m6EFAmgKKp0ACgkQ+0JBMWQ6
-m6G2wRAAmMiSFR0XiOq/lpkx89aWQwd9ikIrBtdjplEEsBpeotz55I6X7cjL0fB4
-NAn3+gg8FoE3x7FPCYP2Hh1CcFdN4ox/93hvpA9fiLfDrAwsFIZNwERMK+84bqJi
-hauEwMgYY6F1vZ4evNyDVL2QeoZ/dETIcLtPePZB/1lf2qDUtah7fl+RqAJBi7IT
-eufcjlRJhFuYRnMlT2qwDebFtH96pLJtkOu62DAnYodbHbJzlnTxGmrxZq3uW7He
-48tQWiS0b7T4Mv3Iofw7AZaLymfcyy2VsXuXZj1O1WqioFkevj8Pgg+zd6xlRhyO
-/FcAF7iyN806SlLH3L0d+tH3D3GXIDkdlQF7pKtb7EkR+nkXMzVC2rFksFJeHEHW
-H1sVRtV0Z6xn6jg/7KuV9FOiB0i6n6DBOFJKsxiqTcS4qNmFVINjfbydEzLe1dxX
-kXdquoDqIBQScFhqNJYyyvIFVO0PBLtFp+7OvERJwHEpQhbG0KYqKiv7Uh041opm
-biLYc8eBSOLrFCvLOUC8gpYt1ClU4xOZdErbGGbk4chHLkTAhBl1bI0BlgogYAXY
-hUNa1ogJXEcZZ3zfS+UX9ePEO2riC8inLXlEWRFcM1fRasqtYpKqZG8XRIpFP9Df
-8zov1BROC77ZkLQ0xE/uzEtdxBmJThqdrCuJlOv5KLe1FEg0Rfc=
-=uhKf
+iQIzBAEBCgAdFiEExNxjyeglJlmyhgOq+0JBMWQ6m6EFAmgKSJoACgkQ+0JBMWQ6
+m6H+uQ//amd42MJI/qswbClbaZLY8RytFbGBKFWYvMowg33rSqS7Mlv1Ej29Euuu
+SUi71FRxpb0Uy5PqZ8UVRtXqsMnqTAC8S79QMfdwtXVJbcDnLugfo9kjkoHSjSmy
+cw+88HNRtuOYNwBrVuBM1Bn1Ae3qs0qHx3BXpaXO0ujLK49w99tR6fcOzKpE94lY
+vIHetQ77Bid+leDoe6N0ZYCPAp7jaYqaXm50Zrnu+9P7Qw22h3tSULOoglTr2FyS
+tyn+nK2wehuWuMrim/JTRaTUqzYtnMcwRI62/r53lcDliSe4bBx4yRPL/439Igde
+zFUSsaWf1Q+pIyvwjptI2QkQNkePZydQgdHlCML45tm74gIKyXqBPHKG1p+P9LG5
+RFFTras1eXTrbuBOwtmo5CgHKnddtK80GlK79IGrJI4Sm1ZSK4ou0zRjN5PshcGZ
+g1S5gPgXqAAu0Qsx4fn5+o8wcnzYJoJCRwN8Ig6XbVUO/wwc9NMeJdqsPIt9XoKL
+2tOVuelSNZ6t62XPDOOGkm+xoD6M4kuIZ6eu7Lnuijo7b1RYRWjIcJUV3C1QeCNN
+w7G5L7c+i4BfnxN6hfsEhhthb41gfB//AiCG5VSn4Irzfv/RnvnnRiqnJkawpHvD
+AsfCSIiDakVbNBaYAKnYouFQunvySbayA0D6hfmGL803kHuNsHQ=
+=8AD1
 -----END PGP SIGNATURE-----

@@ -1,15 +1,17 @@
-Origin: get-cli-apt
-Label: get-cli-apt
-Suite: stable
-Codename: stable
-Architectures: amd64
-Components: main
-Description: APT repository for official Securden CLI
-Date: Thu, 24 Apr 2025 12:11:58 +0000
-
+Date: Thu, 24 Apr 2025 14:13:05 +0000
 MD5Sum:
- 348c102a0152488e90ec1599dab42bcd 548 main/binary-amd64/Package
- 49d5e74f966b93a9c8564fecc06c27b2 403 main/binary-amd64/Packages.gz
+ 74d93c8112e2624ae4d0815d82350910               38 Release
+ 348c102a0152488e90ec1599dab42bcd              548 main/binary-amd64/Packages
+ 42e60f831415941f21a91299794428d7              403 main/binary-amd64/Packages.gz
+SHA1:
+ 5e1615ddb3c42d7487c62cc2967d2e001f5376a0               38 Release
+ 83c6e102f1d77accb624d4da3b601e747a111fc5              548 main/binary-amd64/Packages
+ 6b5fc5392ec6113ac4a641e46348793fea8cdcd1              403 main/binary-amd64/Packages.gz
 SHA256:
- cdc59443746bc5650f763a2e8217eccfcee6c26ff92f6885319af91aa84b7c50 548 main/binary-amd64/Packages
- 47c4f41bbf31cfa7ab7ec99189a36a062c5320be706e1649f33ed4fa8efa9655 403 main/binary-amd64/Packages.gz
+ 8c9d8f714d356a52129d8072b630a08bf99f974c37459a415efe4be425e44ede               38 Release
+ cdc59443746bc5650f763a2e8217eccfcee6c26ff92f6885319af91aa84b7c50              548 main/binary-amd64/Packages
+ 44d73b6a894c9e5bfa32bf69abf6912c1b54cd027c18e7534ec4ff44f6788299              403 main/binary-amd64/Packages.gz
+SHA512:
+ ebad8ed560a81c217b9833fbcd50634b0e9af84ea7941674aa9d0acc2a13347c2684d84516454781fa8ebc7def422354279500b360f9ddc48a66d0526c812820               38 Release
+ 8b732062ddde6497fc0fb3fbf12ad5a2ec4f0b1e1bc15ad38208329e57d47e338929caefa4aca0d3ba45d7b66ba934771fd0d2eb7bf7de2ca6ca300d2bb08884              548 main/binary-amd64/Packages
+ 06cf5b7970f788364d6b3a608255b2890261e1ac44a9510523a5e2baadff912bcfff9ad06ec7962996583ef963ca0e5be52c650d50e59241b2704d2605d370cb              403 main/binary-amd64/Packages.gz
